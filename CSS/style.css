@@ -1,0 +1,49 @@
+/* Created by AkshayKeerti */
+
+	div.wrapper {
+        width: 100%;
+        margin: 0px;
+        border: 1px solid gray;
+        line-height: 150%;
+		
+		
+    }
+
+    div.header, div.footer {
+        padding: 2em;
+        color: white;
+        background-color: black;
+        clear: center;
+        text-align: center;
+		font-family: 'Permanent Marker', cursive;
+    }
+
+
+    div.content {
+        padding: 1em;
+		font-size: 30px;
+        text-align: center;
+        height: 600px;
+		font-family: 'Pacifico', cursive;
+		
+    }
+	
+
+	
+	a:link, a:visited {
+		background-color: black;
+		color: white;
+		padding: 80px ;
+		text-align: center; 
+		text-decoration: none;
+		display: inline-block;
+		margin-right: 130px;
+		margin-left: 130px;
+		margin-top: 100px;
+		border-radius: 60px;
+		font-size: 50px;
+	}
+
+	a:hover, a:active {
+	background-color: #fc6a6a;
+	}
